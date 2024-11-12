@@ -1,5 +1,5 @@
 ### Advocacy Write-Up: The Importance of Ethical Duty-of-Care Licenses in the Open Source AI Community
-By Caleb DeLeeuw, editted and formatted by Qwen 2.5 72B
+By SolshineCode, editted and formatted by Qwen 2.5 72B
 
 #### Introduction
 The rapid advancement of artificial intelligence (AI) and machine learning (ML) has brought about transformative changes across various sectors, from healthcare and education to finance and entertainment. However, these technologies also pose significant ethical and societal risks, particularly when they are misused for military purposes or mass surveillance. Ethical duty-of-care licenses, such as the Hippocratic License 3.0 (HL3) and the Llama 3 License, are designed to address these concerns by embedding ethical considerations into the legal framework of open-source AI projects. This write-up explores how these licenses are vital for revitalizing public trust in AI development and fostering a responsible and inclusive AI community.
