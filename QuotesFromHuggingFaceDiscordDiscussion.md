@@ -3,7 +3,7 @@ This discussion contributes to the ongoing development of these frameworks.
 Please feel free to add additional quotes or contributions via PR.
 
 
-Faramath stated:
+Faramith stated:
 ```
 Sure there could be licenses that could enforce "best practices" as in "ethical practices" maybe but that needs to be defined well: why would someone who is within a country that has an AI law (AI Act) would care about ethics as long as he follows the law?
 ```
