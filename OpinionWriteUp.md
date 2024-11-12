@@ -11,7 +11,7 @@ One of the most pressing public concerns regarding AI is its potential misuse in
 Ethical duty-of-care licenses, such as the Hippocratic License 3.0 (HL3) and the Llama 3 License, aim to address these concerns by incorporating ethical guidelines into the licensing terms of AI models. These licenses require users to adhere to specific ethical standards, ensuring that AI technology is used responsibly and for the benefit of society.
 
 1. **Hippocratic License 3.0 (HL3):**
-   - **Ethical Use Clause:** The HL3 includes a clause that explicitly prohibits the use of the licensed software for harmful purposes, such as military operations, surveillance, or any activities that violate human rights.
+   - **Ethical Use Clause:** The HL3 includes a clause (usable as individual modules) that explicitly prohibits the use of the licensed software for harmful purposes, such as ecocide, military operations, surveillance, or any activities that violate human rights, while otherwise making it open source and use-able by the public.
    - **Transparency and Accountability:** The license requires users to disclose how the software is being used, promoting transparency and accountability in AI development.
    - **Enforceability:** By leveraging intellectual property laws, the HL3 provides a legal mechanism to enforce ethical standards, making it more difficult for bad actors to misuse AI technology.
 
@@ -34,6 +34,12 @@ The Hugging Face community has been actively discussing the integration of ethic
 - **Promote Ethical Standards:** Encourage developers to adopt ethical standards by making it easier to choose and apply ethical duty-of-care licenses.
 - **Foster Community Engagement:** Create a platform for ongoing dialogue and collaboration on ethical AI development, involving developers, researchers, and other stakeholders.
 - **Enhance Transparency:** Increase transparency in AI development by requiring users to disclose how they are using the licensed software, fostering a culture of accountability.
+
+#### Specific Benefits for Hugging Face:
+
+- **Increased Visibility and Adoption:** By adding the Hippocratic License 3.0 (HL3) to the default license dropdown, Hugging Face can increase its visibility and adoption among developers who are committed to ethical AI development. This can attract a more diverse and responsible community of contributors.
+- **Simplified Licensing Process:** Moving the HL3 from the "Other" category to the default list will simplify the licensing process for developers, making it easier for them to choose and apply ethical licenses. This can reduce the barrier to entry for developers who are new to ethical licensing.
+- **Enhanced Credibility:** Hugging Face's commitment to ethical AI development through the inclusion of the HL3 in its default license options will enhance its credibility and reputation in the AI community. This can lead to increased trust and support from users and stakeholders.
 
 #### Conclusion
 Ethical duty-of-care licenses such as the Hippocratic License 3.0 and the Llama 3 License are essential tools for ensuring that AI technology is developed and used responsibly. By addressing public concerns over military and surveillance uses, these licenses help revitalize public trust, accelerate progress, and mitigate societal conflict. The integration of these licenses into the Hugging Face ecosystem is a significant step towards fostering a more ethical and inclusive AI community. We invite all members of the Hugging Face community to join the discussion and contribute to the ongoing development of ethical duty-of-care licenses.
